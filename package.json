@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage":"https://criedor.github.io/components/,
+  "homepage":"https://criedor.github.io/components/",
   "dependencies": {
     "gh-pages": "2.2.0",
     "leaflet": "1.6.0",
